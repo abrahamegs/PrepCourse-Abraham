@@ -1,2 +1,1 @@
-# PrepCourse-Abraham
-Repositorio de Prueba del PrepCourse de Abraham
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora.
